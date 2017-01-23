@@ -1,0 +1,3 @@
+[submodule "featherduster"]
+	path = featherduster
+	url = https://github.com/nccgroup/featherduster/
